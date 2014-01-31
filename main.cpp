@@ -1,4 +1,4 @@
-
+#include "controller.h"
 int main() {
 	// Create Controller Instance
 	Controller *controller = new Controller();
